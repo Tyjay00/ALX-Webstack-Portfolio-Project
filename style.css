@@ -683,8 +683,7 @@ nav{
 /* -----media query for profile page ----- */
 @media (max-width: 900px){
     .profile-container{
-        padding: 20px 5%;
-        
+        padding: 20px 5%;   
     }
     .profile-details{
         flex-wrap: wrap;
